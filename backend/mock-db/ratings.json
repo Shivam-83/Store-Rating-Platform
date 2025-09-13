@@ -1,0 +1,16 @@
+[
+  {
+    "rating_id": 1,
+    "user_id": 2,
+    "store_id": 1,
+    "rating_value": 4,
+    "created_at": "2025-09-11T15:01:33.361Z"
+  },
+  {
+    "rating_id": 2,
+    "user_id": 2,
+    "store_id": 2,
+    "rating_value": 5,
+    "created_at": "2025-09-11T15:01:33.361Z"
+  }
+]
